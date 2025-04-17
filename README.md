@@ -18,6 +18,8 @@ This is a Task Manager application built with **ReactJS** and **Firebase**. It a
 
 ---
 
+![Image](https://github.com/user-attachments/assets/faf5c9a0-ae35-4f08-ac76-cb1187d915b6)
+
 ## 🛠️ Setup and Run
 
 ### 1. Clone the repository:
@@ -117,6 +119,5 @@ npm start
 ├── package.json
 └── README.md         # Project documentation
 ```
-![Image](https://github.com/user-attachments/assets/faf5c9a0-ae35-4f08-ac76-cb1187d915b6)
 
 > Made with ❤️ by NITHIN B Y

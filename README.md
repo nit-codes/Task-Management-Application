@@ -32,8 +32,8 @@ This is a Task Manager application built with **ReactJS** and **Firebase**. It a
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/task-manager-app.git
-cd task-manager-app
+[git clone https://github.com/your-username/task-manager-app.git
+cd task-manager-app](https://github.com/nit-codes/Task-Management-Application.git)
 ```
 
 ### 2. Install dependencies:
